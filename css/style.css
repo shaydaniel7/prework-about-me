@@ -11,14 +11,14 @@ body {
 }
 
 .masthead {
-  padding: 6em 0;
-  background-image: url('../img/code.jpg');
+  padding: 8em 0;
+  background-image: url('../img/hawaii.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .masthead-intro {
-    margin-bottom: 0.1em;
+    margin-bottom: 0.3em;
     font-size: 2em;
     color: #ffffff;
 }
